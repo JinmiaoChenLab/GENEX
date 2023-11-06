@@ -10,6 +10,10 @@ To test and run the code please install the exported Conda environment:
 
 This will create a new Conda environment with the same packages and versions as the original environment
 
+or by pip installation
+
+`pip install -r requirements.txt`
+
 ## GENEX model running and Analysis
 
 All the running pipeline and analysis are written in Jupyter Notebook.
