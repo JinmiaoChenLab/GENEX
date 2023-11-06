@@ -23,3 +23,5 @@ COVID:
 
 2. [Li, Mengwei, et al. "DISCO: a database of Deeply Integrated human Single-Cell Omics data." Nucleic acids research 50.D1 (2022): D596-D602.](https://academic.oup.com/nar/article/50/D1/D596/6430491?login=false)
 
+## Follow us on our Github
+[JinmiaoChenLab Github Repo](https://github.com/JinmiaoChenLab)
